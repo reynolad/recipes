@@ -1,5 +1,5 @@
 # recipes
-* chx broc pasta bake
+* [chx broc pasta bake](chicken-broccoli-pasta-bake.md)
 * french pot yogurt
 * boulonguise
 * farmhouse bread
