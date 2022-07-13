@@ -1,3 +1,6 @@
+# Inspiration
+[Ricotta Pesto Chicken Pasta Bake](https://www.reddit.com/r/recipes/comments/881ae3/ricottapesto_chicken_pasta_bake/)
+
 # Ingredients
 * 75% box of short pasta (shells, conchiglie, etc)
 * Head of broccoli, chopped
