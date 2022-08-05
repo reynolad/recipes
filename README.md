@@ -3,7 +3,7 @@
 * french pot yogurt
 * boulonguise
 * farmhouse bread
-* corn pasta thing
+* [corn tomato basil pasta](corn-tomato-basil-pasta.md)
 
 # links
 https://github.com/aweijnitz/recipe-el_fuego_viviente
