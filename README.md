@@ -4,7 +4,7 @@
 * boulonguise
 * farmhouse bread
 * [corn tomato basil pasta](corn-tomato-basil-pasta.md)
-* cheesy potato casserole
+* [cheesy potato casserole](cheesy-potato-casserole.md)
 
 # links
 https://github.com/aweijnitz/recipe-el_fuego_viviente
